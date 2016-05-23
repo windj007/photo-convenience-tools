@@ -1,0 +1,3 @@
+CppHeaderParser
+pyexiv2
+Wand
