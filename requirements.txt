@@ -1,3 +1,8 @@
+cython
 CppHeaderParser
-pyexiv2
 Wand
+git+https://github.com/escaped/pyexiv2
+pandas
+sklearn
+scipy
+numpy

@@ -1,1 +1,1 @@
-libexiv2-dev ufraw libmagickwand-dev
+libexiv2-dev ufraw libmagickwand-dev libboost-python-dev python-dev
